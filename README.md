@@ -1,7 +1,5 @@
 # 🚇💻100 Years Ahead: A DALLE-2 Generated Image
 
-![DALLE-2 Generated Image](image.jpg)
-
 ### About the Image
 
 This image was generated using DALLE-2, an AI model developed by OpenAI, to showcase a vision of a computer in a metro station 100 years from now. The image depicts a futuristic metro station, where a large poster of a computer is displayed on the wall, and people are seen interacting with it.
